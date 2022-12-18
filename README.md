@@ -31,7 +31,7 @@ To use this dataset, you can filter by primary category, subcategory, product na
 categories?)
 
 # Data Preparation and Cleaning
-  - Explored and observed data
+  - Explored and observed data.
   -Used the 'find' and 'replace' functions in Excel to remove the commas separating the values in the table. The dataset is in a CSV. file and importing it into MSSQL     Server as strings was a bit of a hassle.
   -Removed duplicates.
   - Inconsistences in spellings were found and corrected.
