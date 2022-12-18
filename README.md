@@ -8,18 +8,26 @@ So what's really in your makeup bag?
 This dataset contains information on chemicals used in cosmetics, including the name of the chemical, the company that uses it, the category of cosmetic it is used in, and the date it was first reported. The data dictionary provides more information on what each column represents.
 To use this dataset, you can filter by primary category, subcategory, product name, or company name to find specific information on ingredients used in cosmetics products. You can also use the 'Chemical Count' column to see how many different chemicals are present in a product.
 
-# Questions:
-Find out which chemicals were used the most in cosmetics and personal care products.
-Find out which companies used the most reported chemicals in their cosmetics and personal care products.
-Which brands had chemicals that were removed and discontinued? Identify the chemicals.
-Identify the brands that had chemicals which were mostly reported in 2018.
-Which brands had chemicals discontinued and removed?
-Identify the period between the creation of the removed chemicals and when they were actually removed.
-Can you tell if discontinued chemicals in bath products were removed. 
-How long were removed chemicals in baby products used? (Tip: Use creation date to tell)
-Identify the relationship between chemicals that were mostly recently reported and discontinued. (Does most recently reported chemicals equal discontinuation of such chemicals?)
-Identify the relationship between CSF and chemicals used in the most manufactured sub categories. (Tip: Which chemicals gave a certain type of CSF in sub categories?)
+# Project Tasks
+1)Find out which chemicals were used the most in cosmetics and personal care products.
 
-# Files
-[archive (16).zip](https://github.com/IssytheAnalyst/Chemicals-in-cosmetics/files/10253196/archive.16.zip)
+2)Find out which companies used the most reported chemicals in their cosmetics and personal care products.
+
+3)Which brands had chemicals that were removed and discontinued? Identify the chemicals.
+
+4)Identify the brands that had chemicals which were mostly reported in 2018.
+
+5)Which brands had chemicals discontinued and removed?
+
+6)Identify the period between the creation of the removed chemicals and when they were actually removed.
+
+7)Can you tell if discontinued chemicals in bath products were removed. 
+
+8)How long were removed chemicals in baby products used? (Tip: Use creation date to tell)
+
+9)Identify the relationship between chemicals that were mostly recently reported and discontinued. (Does most recently reported chemicals equal discontinuation of such chemicals?)
+
+10)Identify the relationship between CSF and chemicals used in the most manufactured sub categories. (Tip: Which chemicals gave a certain type of CSF in sub categories?)
+
+
 
