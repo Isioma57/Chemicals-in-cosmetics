@@ -27,7 +27,14 @@ To use this dataset, you can filter by primary category, subcategory, product na
 
 9)Identify the relationship between chemicals that were mostly recently reported and discontinued. (Does most recently reported chemicals equal discontinuation of such chemicals?)
 
-10)Identify the relationship between CSF and chemicals used in the most manufactured sub categories. (Tip: Which chemicals gave a certain type of CSF in sub categories?)
+10)Identify the relationship between CSF and chemicals used in the most manufactured sub categories. (Tip: Which chemicals gave a certain type of CSF in sub 
+categories?)
 
+# Data Preparation and Cleaning
+  - Explored and observed data
+  -Used the 'find' and 'replace' functions in Excel to remove the commas separating the values in the table. The dataset is in a CSV. file and importing it into MSSQL     Server as strings was a bit of a hassle.
+  -Removed duplicates.
+  - Inconsistences in spellings were found and corrected.
+  - Checked for and treated missing data.
 
 
